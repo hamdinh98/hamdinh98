@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **react node.js **                                                                                                                    
+- 🌱 I’m currently learning ** node.js **                                                                                                                    
 
-- 👨‍💻 All of my projects are available at [on github profile](on github profile)          https://raw.githubusercontent.com/3imed-jaberi/3imed-jaberi/master/assets/code.gif
+- 👨‍💻 All of my projects are available at [on github profile]            ![WelldocumentedCriminalApatosaur-size_restricted](https://user-images.githubusercontent.com/64764935/125171755-21a9b680-e1b6-11eb-92c6-1c8fd8a2ffd9.gif)
+
 
 - 📫 How to reach me **hamdinahdi2@gmail.com**
 
