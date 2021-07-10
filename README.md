@@ -2,12 +2,14 @@
 <h3 align="center">A passionate full-stack web developer</h3>
 <p>I'm web developer student, I really enjoy learning langages and frameworks like react node sql mongodb as well as work in javascript,I also enjoy competitive programming using c++ and java langages </p>
 
+![5eKX](https://user-images.githubusercontent.com/64764935/125171797-6b929c80-e1b6-11eb-9028-05404271f259.gif)
+
+
 - 🔭 I’m currently working on **e-commerce website**
 
 - 🌱 I’m currently learning ** node.js **                                                                                                                    
 
-- 👨‍💻 All of my projects are available at [on github profile]            ![WelldocumentedCriminalApatosaur-size_restricted](https://user-images.githubusercontent.com/64764935/125171755-21a9b680-e1b6-11eb-92c6-1c8fd8a2ffd9.gif)
-
+- 👨‍💻 All of my projects are available at [on github profile]            
 
 - 📫 How to reach me **hamdinahdi2@gmail.com**
 
