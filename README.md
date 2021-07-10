@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Hamdi Nahdi</h1>
+<h1 align="center">Hi there 👋, I'm Hamdi Nahdi</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
 <p>I'm web developer student, I really enjoy learning langages and frameworks like react node sql mongodb as well as work in javascript,I also enjoy competitive programming using c++ and java langages </p>
 
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **react node.js **
+- 🌱 I’m currently learning **react node.js **                                                                                                                    
 
-- 👨‍💻 All of my projects are available at [on github profile](on github profile)
+- 👨‍💻 All of my projects are available at [on github profile](on github profile)          https://raw.githubusercontent.com/3imed-jaberi/3imed-jaberi/master/assets/code.gif
 
 - 📫 How to reach me **hamdinahdi2@gmail.com**
+
+- 🤝 Welcom for every one who need help or collorabotor. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
