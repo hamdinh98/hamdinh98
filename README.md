@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **hamdinahdi2@gmail.com**
 
-- 🤝 Welcom for every one who need help or collorabotor. 
+- 🤝 Welcome for every one who need help or collorabotor. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
