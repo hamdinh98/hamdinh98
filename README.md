@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hamdi Nahdi</h1>
 <h3 align="center">A passionate full-stack web developer</h3>
-<p>I'm web developer student, I really enjoy learning langages and frameworks like react node sql mongodb as well as work in javascript,I also enjoy competitive programming using c++ and java langages </p>
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64764935/125171923-1dca6400-e1b7-11eb-8605-6a8daf8d87b7.gif)
 
