@@ -14,7 +14,7 @@
 
 - 🤝 Welcome for every one who need help or collorabotor.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hamdinh98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#E9967A">
+<img src="https://github-readme-stats.vercel.app/api?username=hamdinh98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 <h3 align="left">Connect with me:</h3>
