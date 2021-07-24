@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning ** node.js **                                                                                                                    
+- 🌱 I’m currently learning ** react.js **                                                                                                                    
 
 - 👨‍💻 All of my projects are available at [on github profile]            
 
