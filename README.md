@@ -4,7 +4,7 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/64764935/125171923-1dca6400-e1b7-11eb-8605-6a8daf8d87b7.gif)
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ... get some knowledge
 
 - 🌱 I’m currently learning ** react.js **                                                                                                                    
 
