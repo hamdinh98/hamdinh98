@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamdi Nahdi</h1>
 <h3 align="center">junior Full stack js developer</h3>
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64764935/125171923-1dca6400-e1b7-11eb-8605-6a8daf8d87b7.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdinh98&label=Profile%20views&color=0e75b6&style=flat" alt="hamdinh98" /> </p>
 
 - 🔭 I’m currently working on **academic project**
