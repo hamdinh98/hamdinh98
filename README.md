@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdinh98&label=Profile%20views&color=0e75b6&style=flat" alt="hamdinh98" /> </p>
 
-- 🔭 I’m currently working on **academic project**
+- 🔭 I’m currently working on **crowdfunding platform**
 
 - 👨‍💻 All of my projects are available at [my github profile](my github profile)
 
