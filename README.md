@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdinh98&label=Profile%20views&color=0e75b6&style=flat" alt="hamdinh98" /> </p>
 
-- 🔭 I’m currently working on **crowdfunding platform**
-
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
-
-- 💬 Ask me about **react nodejs**
-
-- 📫 How to reach me **hamdinahdi2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
